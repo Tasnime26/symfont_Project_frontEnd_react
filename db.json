@@ -1,0 +1,84 @@
+{
+  "Problemes": [
+    {
+      "name": "http/ 404not found123",
+      "categorie": "php123",
+      "description": "aaaaaaaaaaaaaaaaaaa123",
+      "id": 1,
+      "answers": [
+        {
+          "id": 1,
+          "content": "First answer"
+        },
+        {
+          "id": 2,
+          "content": "Second answer"
+        },
+        {
+          "id": 3,
+          "content": "Your submitted answer"
+        },
+        {
+          "id": 4,
+          "content": "test"
+        },
+        {
+          "id": 5,
+          "content": "test2"
+        },
+        {
+          "id": 6,
+          "content": "tastr"
+        }
+      ]
+    },
+    {
+      "name": "symfont undefined route",
+      "categorie": "symfony",
+      "description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "id": 2,
+      "answers": [
+        {
+          "id": 3,
+          "content": "Third answer"
+        }
+      ]
+    },
+    {
+      "name": "exception",
+      "categorie": "java",
+      "description": "exception 123",
+      "id": 3,
+      "answers": [
+        {
+          "id": 4,
+          "content": "Fourth answer"
+        },
+        {
+          "id": 5,
+          "content": "Fifth answer"
+        }
+      ]
+    },
+    {
+      "name": "tasnime",
+      "categorie": "hhhhh",
+      "description": "hhhhhh",
+      "id": 4,
+      "answers": [
+        {
+          "id": 1,
+          "content": "test 123"
+        },
+        {
+          "id": 2,
+          "content": "tasnime123"
+        },
+        {
+          "id": 3,
+          "content": "answer1"
+        }
+      ]
+    }
+  ]
+}
